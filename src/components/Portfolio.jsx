@@ -144,13 +144,13 @@ const Portfolio = () => {
         <a href="https://github.com/Abhishekkocharagi" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
           <Github size={22} />
         </a>
-        <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
+        <a href="https://www.instagram.com/abhishek_b_k_0213/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
           <Instagram size={22} />
         </a>
         <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
           <Twitter size={22} />
         </a>
-        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
+        <a href="https://www.linkedin.com/in/abhishek-kocharagi/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
           <Linkedin size={22} />
         </a>
         <a href="tel:+916364212971" className="text-slate-400 hover:text-cyan-400 hover:-translate-y-1 transition-all">
